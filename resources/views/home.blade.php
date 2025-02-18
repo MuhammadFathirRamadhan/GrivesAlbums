@@ -64,8 +64,8 @@
 
                 <div class="home__container container grid">
                     <div class="home__data">
-                        <span class="home__data-subtitle">Save your moments</span>
-                        <h1 class="home__data-title">Save Your<br> Best <b>& Beautiful <br> Moment</b></h1>
+                        <span class="home__data-subtitle">Welcome to Our Gallery</span>
+                        <h1 class="home__data-title">Hemat Waktumu<br> Untuk <b> Menjemput</b></h1>
                         <a href="#place" class="button">Explore</a>
 
                     </div>
